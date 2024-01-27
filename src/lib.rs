@@ -7,4 +7,5 @@
 
 extern crate embedded_hal as hal;
 
+pub mod piso;
 pub mod sipo;
